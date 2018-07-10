@@ -1,0 +1,12 @@
+[submodule "martinis/martini-upload"]
+	path = martinis/martini-upload
+	url = https://github.com/jakejscott/martini-upload.git
+[submodule "martinis/go-blog"]
+	path = martinis/go-blog
+	url = https://github.com/easykoo/go-blog.git
+[submodule "martinis/martini-api-example"]
+	path = martinis/martini-api-example
+	url = https://github.com/mna/martini-api-example.git
+[submodule "martinis/martini"]
+	path = martinis/martini
+	url = https://github.com/go-martini/martini.git
